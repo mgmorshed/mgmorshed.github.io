@@ -17,7 +17,7 @@ author:
   name:           'Nurani Saoda'
   #url:            http://nsaoda.github.io
 
-logo:             /assets/img/profile.JPG
+logo:             /assets/img/photo_golam.jpg
 
 #paginate:         5
 gems:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jekyll-gist, jekyll-include-cache]
