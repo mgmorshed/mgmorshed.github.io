@@ -17,7 +17,7 @@ author:
   name:           'Md Golam Mrosehd'
   #url:            http://mgmorshed.github.io
 
-logo:             /assets/img/photo_golam_3.jpg
+logo:             /assets/img/photo_golam2_crop.jpg
 
 #paginate:         5
 gems:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jekyll-gist, jekyll-include-cache]
