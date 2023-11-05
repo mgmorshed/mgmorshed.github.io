@@ -7,14 +7,14 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Golam Morshed
-tagline:          'Golam Morshed'
+title:            Md Golam Morshed
+tagline:          'Md Golam Morshed'
 description:      'PhD Candidate at UVA'
 url:              http://mgmorshed.github.io
 #baseurl:          /
 
 author:
-  name:           'Golam Mrosehd'
+  name:           'Md Golam Mrosehd'
   #url:            http://mgmorshed.github.io
 
 logo:             /assets/img/photo_golam.jpg
