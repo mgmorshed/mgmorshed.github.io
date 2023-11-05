@@ -3,6 +3,6 @@ layout: page
 title: Contact
 ---
 
-4213 Seibel Center for Computer Science<br />
-University of Illinois Urbana-Champaign<br />
-Email: [saoda@illinois.edu](mailto:saoda@illinois.edu)
+351 McCormick Rd<br />
+University of Virginia<br />
+Email: [mm8by@virginia.edu](mailto:mm8by@virginia.edu)
