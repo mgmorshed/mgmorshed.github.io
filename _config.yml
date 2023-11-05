@@ -7,7 +7,7 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Md Golam Morshed
+title:            Golam Morshed
 tagline:          'Golam Morshed'
 description:      'PhD Candidate at UVA'
 url:              http://mgmorshed.github.io
@@ -17,7 +17,7 @@ author:
   name:           'Md Golam Mrosehd'
   #url:            http://mgmorshed.github.io
 
-logo:             /assets/img/photo_golam.jpg
+logo:             /assets/img/photo_golam2.jpg
 
 #paginate:         5
 gems:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jekyll-gist, jekyll-include-cache]
@@ -31,7 +31,7 @@ plugins:
 #version:          2.1.0
 
 github:
-  repo:           https://github.com/nsaoda/nsaoda.github.io
+  repo:           https://github.com/mgmorshed/mgmorshed.github.io
 
 tags:
 
